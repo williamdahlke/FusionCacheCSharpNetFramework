@@ -1,7 +1,5 @@
 ﻿using FusionCacheCSharpNetFramework.Models;
 using System.Collections.Generic;
-using ZiggyCreatures.Caching.Fusion;
-
 
 namespace FusionCacheCSharpNetFramework.Data
 {
